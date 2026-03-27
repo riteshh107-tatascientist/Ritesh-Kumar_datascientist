@@ -15,7 +15,7 @@
 
 <!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritesh-Kumar_datascientist_future&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=riteshh107-tatascientist&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -64,15 +64,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ritesh-Kumar_datascientist&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=riteshh107-tatascientist&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Kumar_datascientist&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshh107-tatascientist&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Kumar_datascientist&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshh107-tatascientist&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,17 +80,17 @@
 ## 📊 Advanced GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh-Kumar_datascientist&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshh107-tatascientist&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritesh-Kumar_datascientist&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritesh-Kumar_datascientist&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riteshh107-tatascientist&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riteshh107-tatascientist&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritesh-Kumar_datascientist&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritesh-Kumar_datascientist&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riteshh107-tatascientist&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riteshh107-tatascientist&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -98,7 +98,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritesh-Kumar_datascientist/Ritesh-Kumar_datascientist/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/riteshh107-tatascientist/riteshh107-tatascientist/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
